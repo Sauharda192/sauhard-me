@@ -11,6 +11,16 @@
 
 .navbar {
     display: block;
+
+    .nav-item{
+        float: middle;
+
+        &:hover {
+            font-weight: bold;
+    
+        }
+    }
+    
 }
 
 .nav-item {
@@ -18,13 +28,6 @@
     padding: 1rem;
 }
 
-.navbar .nav-item{
-
-    &:hover {
-        font-weight: bold;
-
-    }
-}
 
 .post-nav{
     text-align: center;
@@ -90,7 +93,13 @@
     }
 
     .post-title{
-        width: 90%;
+        width: auto;
     }
+}
+
+.current{
+    font-weight: bold;
+    color: $color-secondary;
+    text-decoration: underline;
 }
  
