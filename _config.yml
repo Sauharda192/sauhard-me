@@ -16,7 +16,3 @@ instagram_username: sauhard.stha
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-include:
-  - art.html
-  - art_preview.html
