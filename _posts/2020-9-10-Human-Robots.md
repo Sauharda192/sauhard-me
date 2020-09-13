@@ -2,6 +2,7 @@
 layout: post
 title: "Magazine Page Design"
 preview: /img/posts/huro_mock.jpg
+categories: design
 ---
 
 ![Human Robots](/img/posts/huro_mock.jpg) <br> 
