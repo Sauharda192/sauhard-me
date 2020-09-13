@@ -2,6 +2,7 @@
 layout: post
 title:  "Manasa Logo"
 preview: img/posts/mnsa.jpg
+categories: design
 ---
 
 ![mnsa logo](/img/posts/mnsa.jpg)

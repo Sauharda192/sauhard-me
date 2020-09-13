@@ -2,6 +2,7 @@
 layout: post
 title:  "Magazine cover page"
 preview: img/posts/mech/cover_mock.png
+categories: design
 ---
 
 ![Mechanize Cover](/img/posts/mech/cover_mock.png)

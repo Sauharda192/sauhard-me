@@ -2,6 +2,7 @@
 layout: post
 title: "Event ID-card Design"
 preview: /img/posts/hult/cards/pair_2.jpg
+categories: design
 ---
 
 ![pair 1](/img/posts/hult/cards/pair_1.jpg) 
