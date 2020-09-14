@@ -40,13 +40,14 @@
     border-bottom: 1px solid $grey-color-light;
     text-align: center;
     padding: 1rem;
-}
 
-.post-nav .nav-item{    
-    font-weight: bold;
-    &:hover {
-            font-weight: bold;
+    .nav-item{    
+        font-weight: bold;
+        &:hover {
+                font-weight: bold;
+        }
     }
+    
 }
 
 .post-title {
