@@ -20,7 +20,13 @@
     
         }
     }
+
+    margin: auto;
+    max-width: 80rem;
     
+    ul{
+        border-bottom: 1px solid $grey-color-light;
+    }
 }
 
 .nav-item {
@@ -30,6 +36,8 @@
 
 
 .post-nav{
+    border-top: 1px solid $grey-color-light;
+    border-bottom: 1px solid $grey-color-light;
     text-align: center;
     padding: 1rem;
 }
@@ -60,7 +68,7 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    border-top: 3px solid $grey-color-light;
     margin: 2rem 0;
     padding: 2rem 0;
 }
