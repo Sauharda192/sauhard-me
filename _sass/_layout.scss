@@ -70,6 +70,7 @@
  */
 .site-footer {
     border-top: 3px solid $grey-color-light;
+    border-bottom: 3px solid $grey-color-light;
     margin: 2rem 0;
     padding: 2rem 0;
 }
@@ -95,6 +96,7 @@
     
     &:hover {
         border: 1px solid $grey-color-light;
+        color: $color-primary;
     }
 
     img {
@@ -104,7 +106,10 @@
     }
 
     .post-title{
-        width: auto;
+        width: 200px;
+        text-align: left;
+
+        
     }
 }
 
