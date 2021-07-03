@@ -10,7 +10,13 @@
                     
 
 
-                <div class="post-title">{{ post.title }}</div>
+                <div class="post-title">
+            
+                    <a href="{{ post.url | prepend: site.baseurl }}">
+                        {{ post.title }}
+                    </a>
+            
+                </div>
            </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}

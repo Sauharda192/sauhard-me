@@ -15,9 +15,12 @@
     .nav-item{
         float: middle;
 
+        a {
+            color: $color-secondary;
+        }
         &:hover {
             font-weight: bold;
-    
+            
         }
     }
 
@@ -92,24 +95,33 @@
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    
-    
-    &:hover {
-        border: 1px solid $grey-color-light;
-        color: $color-primary;
-    }
 
+    
     img {
         height: 200px;
         width: 200px;
         object-fit: cover;
+        border: 1px solid $grey-color-light;
     }
-
+    
+    &:hover {
+        color: $color-primary;
+        img {
+                transform: translateY(-0.25em);
+                /* 
+                box-shadow: 0 1px 8px hsla(0, 0, 0, .2);
+                */
+            }       
+    }
+    
+    a {
+        color: $color-secondary;
+    }
     .post-title{
         width: 200px;
         text-align: left;
 
-        
+  
     }
 }
 
