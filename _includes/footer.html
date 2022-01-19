@@ -1,11 +1,11 @@
 <footer class="site-footer">
   
 
-  <div class="row">
+  <div class="row" style="padding: auto;">
     
-    <div class="column">
-      <h4 class="footer-heading"><b>{{ site.title }}</b> <p style = "font-size: 1.6rem;" >Digital Artist</p></h4> 
-      
+    <div class="column" style="margin-bottom: 2rem; width: max;">
+      <h4 class="footer-heading"><b>{{ site.title }}</b> 
+        <p style = "font-size: 1.6rem;" >Digital Artist</p></h4> 
       <h6>{{ site.description }}</h6>
     </div>
 
@@ -37,7 +37,7 @@
         {% if site.email_address %}
       
           <li> <a href="mailto:{{ site.email }}" style="background-color: white; color: darkslategrey;" ></a><i class="fa fa-envelope"></i></a> 
-                <a href="mailto:{{ site.email }}"> &nbsp &nbsp sauhard192@gmail.com</a></li>
+                <a href="mailto:{{ site.email }}"> &nbsp &nbsp {{ site.email_address }}</a></li>
         {% else %} 
         {% endif %}
       
