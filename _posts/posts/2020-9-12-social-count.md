@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Socialmedia Countdown Post"
-preview: /img/posts/vector/vector_count.jpg
+preview: /img/posts/thumb/vector_count.jpg
 categories: design
 ---
 

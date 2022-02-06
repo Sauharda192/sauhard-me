@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Logo & Pattern"
-preview: /img/posts/diyo/logo_mono.jpg
+title: "DIYO.AI"
+preview: /img/posts/thumb/diyo.jpg
 categories: design
 ---
 

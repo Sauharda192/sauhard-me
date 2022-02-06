@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Typography Experiment"
-preview: /img/posts/typex.jpg
+preview: /img/posts/thumb/typex.jpg
 categories: design
 ---
 
