@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Logo & Pattern Design"
+title: "Logo & Pattern"
 preview: /img/posts/diyo/logo_mono.jpg
 categories: design
 ---

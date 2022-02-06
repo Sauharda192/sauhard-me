@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Poster Design"
+title: "WRC Designs Poster"
 preview: /img/posts/thumb/wrc_designs.jpg
 categories: design
 ---

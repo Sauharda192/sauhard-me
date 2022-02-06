@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Event ID-card Design"
+title: "Event ID-card"
 preview: /img/posts/hult/cards/pair_2.jpg
 categories: design
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Magazine Page Design"
+title: "Magazine Page"
 preview: /img/posts/huro_mock.jpg
 categories: design
 ---

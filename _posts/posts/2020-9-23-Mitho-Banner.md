@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Banner Design"
+title: "Marketing Banner"
 preview: /img/posts/thumb/mitho_banner.jpg
 categories: design
 ---

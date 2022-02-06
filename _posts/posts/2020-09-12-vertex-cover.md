@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Magazine Cover Design"
+title: "Magazine Cover"
 preview: /img/posts/the_vertex/the_vertex2.jpg
 categories: design
 ---

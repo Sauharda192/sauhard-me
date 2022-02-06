@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bottle Wrapper Design"
+title:  "Water Bottle Wrapper"
 preview: img/posts/mitho/mitho_bottle.jpg
 categories: design
 ---
