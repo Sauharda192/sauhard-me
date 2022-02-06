@@ -9,8 +9,10 @@
                     </a>
                     
 
-                <div class="post-title">{{ post.title }}</div>
-           </div>
+                <a class= "preview-text" href="{{ post.url | prepend: site.baseurl }}">
+                    {{ post.title }}
+                 </a>
+            </div>
         </div>
 {% cycle 'end row' : '', '', '</div>' %}
 {% endfor %}
