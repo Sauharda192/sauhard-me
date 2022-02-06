@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Manasa Logo"
-preview: img/posts/mnsa.jpg
+preview: img/posts/thumb/mnsa.jpg
 categories: design
 ---
 

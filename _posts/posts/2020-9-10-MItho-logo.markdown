@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mitho Drinking Water Logo"
-preview: img/posts/mitho/mitho_logo.jpg
+preview: img/posts/thumb/mitho.jpg
 categories: design
 ---
 
