@@ -92,8 +92,9 @@
     box-sizing: border-box;
     border: 1px solid $color-initial;
     display: flex;
-    justify-content: center;
-    align-items: left;
+    justify-content: left;
+    align-items: center;
+    text-align: left;
     flex-direction: column;
     
     img {
@@ -106,6 +107,7 @@
     &:hover {
         
         .preview-text{
+
             transition-duration: 500ms; 
             visibility: visible;
             transition: ease-in;
@@ -121,12 +123,14 @@
 
 .preview-text{
     display: block;
+    width: 200px;
     /*
     background-color: grey;
     width: 200px;
     padding: 12px 12px;
     */
     text-align: left;
+    align-items: left;
     visibility: visible;
        
 } 
