@@ -5,5 +5,6 @@ preview: /img/posts/thumb/omelette.jpg
 categories: design
 ---
 
-![Omelette](/img/posts/omelette/omelette.jpg) <br> 
-###### Playing around - 1.
+![Omelette](/img/posts/thumb/omelette.jpg)
+
+Playing around with shapes and rhythm.
