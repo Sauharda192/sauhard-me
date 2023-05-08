@@ -5,8 +5,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Learning to create. Creating to learn.
    
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://sauharda192.github.io/sauhard-me/" # the base hostname & protocol for your site
+baseurl: "sauhard-me/" # the subpath of your site, e.g. /blog
+url: "https://sauharda192.github.io/" # the base hostname & protocol for your site
 
 email_address: sauahrd192@gmail.com
 instagram_username: sauhardaaaa
